@@ -6,9 +6,9 @@ Welcome to my GitHub profile! 😄
 
 I'm a passionate software engineer with a keen interest in web development and creating awesome applications. I enjoy working with various technologies and exploring new possibilities.
 
-- 🔭 I’m currently working on exciting new projects.
+- 🔭 I’m currently working on the most amazing gift registry anyone has ever used.
 - 🌱 I’m constantly learning and improving my skills.
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate on impactful and exciting projects.
 - 💬 Ask me about anything related to software development or pop culture.
 - ⚡ Fun fact: I love cartoons, a good psychological thriller (movie or book) and coding in equal measure! ☕️💻
 
