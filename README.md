@@ -28,7 +28,7 @@ Here are some of the technologies and tools that I work with:
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![Go Fiber](https://img.shields.io/badge/-Go_Fiber-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Fiber](https://img.shields.io/badge/-Go_Fiber-00ADD8?logo=go&logoColor=white&style=flat-square)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
