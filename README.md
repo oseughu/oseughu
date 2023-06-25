@@ -1,8 +1,8 @@
-# Hi there, I'm Ose Ughu! 👋
+# Hi there, I'm Ose Ughu! 👋🏾
 
 Welcome to my GitHub profile! 😄
 
-## About Me 🙋‍♂️
+## About Me 👨🏾‍💻
 
 I'm a passionate software engineer with a keen interest in web development and creating awesome applications. I enjoy working with various technologies and exploring new possibilities.
 
@@ -43,7 +43,7 @@ Here are some of the technologies and tools that I work with:
 
 Feel free to explore my repositories to see some exciting projects!
 
-## Connect with Me 🤝
+## Connect with Me 🤝🏾
 
 Let's connect and collaborate on interesting projects:
 
