@@ -18,7 +18,7 @@ Here are some of the technologies and tools that I work with:
 
 <br />
 
-![Languages and Tools](https://skillicons.dev/icons?i=php,laravel,ruby,rails,svelte,nodejs,bun,postgresql,mysql,sqlite)
+![Languages and Tools](https://skillicons.dev/icons?i=php,laravel,ruby,rails,go,svelte,nodejs,bun,postgresql,mysql,sqlite)
 
 ## Projects 🚀
 
