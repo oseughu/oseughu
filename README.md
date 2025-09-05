@@ -31,6 +31,6 @@ Let's connect and collaborate on interesting projects:
 - GitHub: [@oseughu](https://github.com/oseughu)
 - Twitter: [@oseughu](https://twitter.com/oseughu)
 - LinkedIn: [Osemudiamhen Ughu](https://www.linkedin.com/in/oseughu/)
-- Website: [oseughu.dev](https://oseughu.dev)
+- Website: [oseughu.com](https://oseughu.com) 
 
 I'm always open to new opportunities and discussions. Let's create amazing things together! ✨
